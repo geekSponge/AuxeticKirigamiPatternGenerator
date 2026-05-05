@@ -27,9 +27,6 @@ Code was developed with assistance from OpenAI Codex/ChatGPT.
 - `kirigami_geometry_io.py`  
   Shared geometry, clipping, SVG, DXF, and PNG export utilities.
 
-- `generate_verification_figures.py`  
-  Optional script that makes labeled verification figures and clean 50 x 50 mm examples for all six categories.
-
 - `requirements.txt`  
   Python dependency for PNG previews and verification figures.
 
