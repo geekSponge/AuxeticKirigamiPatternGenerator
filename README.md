@@ -299,20 +299,6 @@ Using direct `w/l`:
 python .\generate_kirigami_pattern.py --family triangular --motif parallel --width 50 --height 50 --cell-size 20 --t 1 --width-over-l 0.144 --svg .\output\triangular_parallel_w.svg --dxf .\output\triangular_parallel_w.dxf --preview-png .\output\triangular_parallel_w.png
 ```
 
-## Generate Verification Figures
-
-This command generates labeled figures and clean 50 x 50 mm examples for all six types:
-
-```powershell
-python .\generate_verification_figures.py
-```
-
-The outputs will be written to:
-
-```text
-.\verification_results
-```
-
 ## Notes
 
 - `a` means the ideal rotating-unit side length.
